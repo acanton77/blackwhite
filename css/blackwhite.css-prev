@@ -21,7 +21,6 @@ body {
 .image-bg-fluid-height {
  
 	background: url('../img/tools.jpg') no-repeat center center scroll;
-	/* background: url('../img/tools3a.jpg') no-repeat center center scroll; */
 	
 
     padding: 100px 0;
@@ -36,8 +35,7 @@ body {
 	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
  */
  
-/*  background: url('../img/tools3a.jpg') no-repeat center center scroll; */
-  background: url('../img/tools.jpg') no-repeat center center scroll;
+ background: url('../img/tools.jpg') no-repeat center center scroll;
 	
     height: 250px;
 }
